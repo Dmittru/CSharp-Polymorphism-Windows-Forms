@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Lab2WinForms\Lab2WinForms\bin\Debug\net6.0-windows\Lab2WinForms.exe
+C:\Users\User\source\repos\Lab2WinForms\Lab2WinForms\bin\Debug\net6.0-windows\Lab2WinForms.deps.json
+C:\Users\User\source\repos\Lab2WinForms\Lab2WinForms\bin\Debug\net6.0-windows\Lab2WinForms.runtimeconfig.json
+C:\Users\User\source\repos\Lab2WinForms\Lab2WinForms\bin\Debug\net6.0-windows\Lab2WinForms.dll
+C:\Users\User\source\repos\Lab2WinForms\Lab2WinForms\bin\Debug\net6.0-windows\Lab2WinForms.pdb
+C:\Users\User\source\repos\Lab2WinForms\Lab2WinForms\obj\Debug\net6.0-windows\Lab2WinForms.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lab2WinForms\Lab2WinForms\obj\Debug\net6.0-windows\Lab3.Form1.resources
+C:\Users\User\source\repos\Lab2WinForms\Lab2WinForms\obj\Debug\net6.0-windows\Lab2WinForms.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab2WinForms\Lab2WinForms\obj\Debug\net6.0-windows\Lab2WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lab2WinForms\Lab2WinForms\obj\Debug\net6.0-windows\Lab2WinForms.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab2WinForms\Lab2WinForms\obj\Debug\net6.0-windows\Lab2WinForms.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab2WinForms\Lab2WinForms\obj\Debug\net6.0-windows\Lab2WinForms.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab2WinForms\Lab2WinForms\obj\Debug\net6.0-windows\Lab2WinForms.dll
+C:\Users\User\source\repos\Lab2WinForms\Lab2WinForms\obj\Debug\net6.0-windows\refint\Lab2WinForms.dll
+C:\Users\User\source\repos\Lab2WinForms\Lab2WinForms\obj\Debug\net6.0-windows\Lab2WinForms.pdb
+C:\Users\User\source\repos\Lab2WinForms\Lab2WinForms\obj\Debug\net6.0-windows\Lab2WinForms.genruntimeconfig.cache
+C:\Users\User\source\repos\Lab2WinForms\Lab2WinForms\obj\Debug\net6.0-windows\ref\Lab2WinForms.dll
